@@ -7,4 +7,4 @@ In simple words, personal finance entails all the financial decisions and activi
 
 <h4>Technical Architecture:</h4>
 
-![image] (https://user-images.githubusercontent.com/75496907/194687549-c442819b-ebd8-468b-9354-959c090b0be9.png)
+!(https://user-images.githubusercontent.com/75496907/194687635-f50c9121-0144-4765-a088-1c680888ee18.png)
