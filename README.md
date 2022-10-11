@@ -12,6 +12,7 @@ Below link depicts the technical architecture
 ![Techincal Architecture](https://lh6.googleusercontent.com/rEq5ONu1NkSrSCO2bCYqPGfekO-jk-xyVo6TK1ZzwFrWosaBAzNpsiTcljCtT9wf0LvzUY18F9FTVzWBKTWCavF2lNG8N52IX6Ox6bJKd5uE7mTjU5_fG7Dh9OlY5g)
 
 <h4>Technical Stack</h4>
+
 - Python
 - Flask
 - Docker
