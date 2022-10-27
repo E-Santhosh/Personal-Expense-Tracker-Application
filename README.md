@@ -15,3 +15,10 @@ In simple words, personal finance entails all the financial decisions and activi
 - Python
 - Flask
 - Docker
+
+### Team Members 
+
+- VIGNESHWARAN A (Team Lead)
+- NELSON J (Team Member)
+- SANTHOSH E (Team Member)
+- VERJIN V (Team Member)
