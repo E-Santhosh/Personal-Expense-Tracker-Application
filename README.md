@@ -15,6 +15,7 @@ In simple words, personal finance entails all the financial decisions and activi
 - Python
 - Flask
 - Docker
+- IBM DB
 
 ### Team Members 
 
